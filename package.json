@@ -10,6 +10,8 @@
     "@testing-library/user-event": "^12.7.0",
     "@tinymce/tinymce-react": "^3.10.1",
     "autoprefixer": "^9.8.6",
+    "emailjs": "^3.4.0",
+    "emailjs-com": "^2.6.4",
     "firebase": "^8.2.7",
     "postcss": "^7.0.35",
     "react": "^17.0.1",
